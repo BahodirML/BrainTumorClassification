@@ -37,4 +37,4 @@ This project implements a deep learning model for brain tumor detection and clas
 1. Prepare your dataset
 2. Train the model: "best_model.pth"
 
-3. Fine-tune the model: 
+3. Fine-tune the model: "google/vit-base-patch16-224-in21k"
